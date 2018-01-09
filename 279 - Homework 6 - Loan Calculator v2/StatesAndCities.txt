@@ -1,0 +1,17 @@
+AZ|Tubac
+AZ|Tucson
+AZ|Wickenburg
+CA|Los Angeles
+CA|San Diego
+CA|San Francisco
+CO|Denver
+CO|Grand Junction
+CO|Pueblo
+OR|Klamath Falls
+OR|Portland
+OR|Salem
+WA|Seattle
+WA|Tacoma
+
+
+
